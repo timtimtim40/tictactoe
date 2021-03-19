@@ -1,5 +1,5 @@
 # TICTACTOE
-
+Simple network TicTacToe game. A server listens for two clients to connect. First player is Player X and second one is Player O
 
 ## Steps
 Step 1. Compile java files
