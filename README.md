@@ -1,7 +1,7 @@
 # TICTACTOE
 
 
-## How to run
+## Steps
 Step 1. Compile java files
 
 > `javac *.java`
